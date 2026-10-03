@@ -1,4 +1,4 @@
-# Farhad Zandi Amarloui
+# Farhad Zandi
 
 **IT & Digital Transformation | Public Transport Technology | AI-Assisted Software Development**
 
