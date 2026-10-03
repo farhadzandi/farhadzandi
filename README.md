@@ -19,7 +19,7 @@ I focus on turning operational needs into practical systems: dashboards, managem
 
 ## Featured public projects
 
-### [KPI Evaluator — Public Showcase](https://github.com/farhadzandi/farhadzandi/tree/main/showcase/kpi-evaluator)
+### [KPI Evaluator — Public Showcase](https://github.com/farhadzandi/KPI-Evaluator-Showcase)
 Sanitized portfolio showcase of an organizational KPI evaluation and performance-management platform, including workflow, roles, approval logic, scoring concepts, architecture diagrams, and AI-ready extensions.
 
 ### [Claude Desktop Persian RTL Patch](https://github.com/farhadzandi/claude-desktop-rtl-patch-fa)
