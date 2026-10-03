@@ -2,34 +2,48 @@
 
 **IT & Digital Transformation | Public Transport Technology | AI-Assisted Software Development**
 
-I am an IT and digital-transformation professional with 20+ years of experience in public-sector technology and urban mobility. My work spans IT infrastructure, intelligent transport systems, project governance, automation, applied AI, and software prototyping.
+IT and digital-transformation professional with 20+ years of experience across public-sector technology, urban mobility, IT infrastructure, intelligent transport systems, project governance, automation, and applied AI.
 
-I use software and AI tools to turn operational needs into practical systems, dashboards, automation tools, and deployable prototypes.
+I focus on turning operational needs into practical systems: dashboards, management platforms, automation tools, technical prototypes, and deployable solutions.
 
-## Current focus
+## Professional focus
 
-- Digital transformation in public transport
-- Intelligent transportation and fleet technology
-- Applied AI and computer vision
-- Project and KPI management systems
-- Automation and operational dashboards
-- AI-assisted software development
-- IT infrastructure and systems integration
+| Area | Focus |
+|---|---|
+| Public Transport Technology | Fleet systems, intelligent transport, operational digitalization |
+| Digital Transformation | Process redesign, integration, dashboards, project governance |
+| Applied AI | Computer vision, AI-assisted workflows, practical organizational use cases |
+| Software Prototyping | Python, .NET, PyQt, Blazor, web applications |
+| Infrastructure | Windows Server, Active Directory, networking, IIS, Docker |
+| Data & Monitoring | SQL Server, SQLite, operational KPIs, monitoring and reporting |
 
-## Selected public projects
+## Featured public projects
 
 ### [Claude Desktop Persian RTL Patch](https://github.com/farhadzandi/claude-desktop-rtl-patch-fa)
-Security-hardened Persian/RTL support for Claude Desktop on Windows, with rollback, verification, ACL restoration, audit tools, and bilingual documentation.
+Security-hardened Persian/RTL support for Claude Desktop on Windows, with rollback, verification, ACL restoration, audit tooling, and bilingual documentation.
 
-### [Ghestban Update Channel](https://github.com/farhadzandi/GhestbanUpdate)
-Public release channel for Ghestban, an offline-first personal finance and installment-management application with private backup/sync architecture and regression testing.
+### [Ghestban](https://github.com/farhadzandi/GhestbanUpdate)
+Public release channel for an offline-first personal finance and installment-management application. The architecture separates public distribution from private application data and backup/synchronization.
 
-### [Falcon Download Manager — Update Channel](https://github.com/farhadzandi/falcon-dm-server)
-Public release metadata and update-distribution channel for Falcon Download Manager.
+### [Falcon Download Manager](https://github.com/farhadzandi/falcon-dm-server)
+Public update and release-metadata channel for Falcon Download Manager, with a defined public/private security boundary.
+
+## Selected private & organizational work
+
+A significant part of my work is not published as source code because it relates to internal organizational systems or operational information. Selected areas include:
+
+- project management and project-control platforms;
+- KPI evaluation and performance-management systems;
+- operational dashboards and control-tower concepts;
+- public-transport fleet and smart-mobility systems;
+- camera, monitoring, passenger-counting and driver-assistance concepts;
+- system integration and infrastructure automation.
+
+Where possible, I publish sanitized showcase versions or technical documentation without exposing restricted information.
 
 ## Technology
 
-**Languages & Development**  
+**Development**  
 Python · C# / .NET · HTML/CSS · JavaScript · PyQt · Blazor
 
 **Data & Platforms**  
@@ -38,17 +52,9 @@ SQL Server · SQLite · Docker · GitHub Actions · IIS
 **Infrastructure & Networking**  
 Windows Server · Active Directory · Cisco · MikroTik · Endpoint Management · Network Monitoring
 
-**Areas of Interest**  
-Artificial Intelligence · Computer Vision · Intelligent Transport Systems · Digital Twins · Project Governance · Cybersecurity Governance
+**Current interests**  
+Applied AI · Computer Vision · Intelligent Transport Systems · Digital Twins · AI Agents · Project Governance · Cybersecurity Governance
 
-## What I build
+## Working approach
 
-My projects usually start from a real operational problem: managing projects, evaluating performance, integrating systems, improving public-transport operations, or simplifying a repetitive workflow.
-
-I am particularly interested in building systems that connect **operations, data, automation, and AI** without losing sight of usability and deployment constraints.
-
----
-
-### Portfolio note
-
-Some of my organizational and production projects are kept private because they contain internal architecture, operational information, or sensitive data. Public repositories and showcase versions are used to demonstrate selected technical work without exposing restricted information.
+I usually start from a real operational problem rather than from a technology choice. The objective is to connect **operations, data, automation, and AI** in a way that remains usable, maintainable, and realistic to deploy.
